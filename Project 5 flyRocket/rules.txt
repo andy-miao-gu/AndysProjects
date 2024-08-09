@@ -1,0 +1,7 @@
+1. there will be a rocket that will fly  in space
+2. with presseng left button it will go left
+3. by pressing wright button it will go right
+4. it should go forward and it should come back
+5. it should fire bullets
+6. the bullets must hit enemies
+7. you have a bar of how much bullets you have left

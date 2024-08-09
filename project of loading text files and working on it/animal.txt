@@ -1,0 +1,3 @@
+cat is an animal.
+cat  has   4  legs  .
+cat has multiple colors/mr.umair
